@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neeraj5696
 - 👀 I’m interested in full stack development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m  efficent in Javascript
 - 💞️ I’m looking to collaborate on my and others projects
 - 📫 How to reach me  neerajkumar5696@gmail.com
 
