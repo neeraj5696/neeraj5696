@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neeraj5696
-- 👀 I’m interested in full stack development
-- 🌱 I’m  efficent in Javascript
+- 👀 MERN FULL STACK DEVELOPER.
+- 🌱 I’m  efficent in Javascript, ReactJS.
 - 💞️ I’m looking to collaborate on my and others projects
 - 📫 How to reach me  neerajkumar5696@gmail.com
 
